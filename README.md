@@ -8,6 +8,8 @@
 - **Languages I Use:**
   - Mostly Python 🐍 (Not advanced, but learning more every day)
   - Can write basic stuff in C, JavaScript, VB, and more.
+  
+    ![com55's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=com55&theme=dark&show_icons=true&hide_border=false&layout=compact)
 - **Philosophy:**  
   - I love tinkering, experimenting, and picking up new things—especially projects that make life a bit better (Quality of Life, QoL).
 
@@ -28,6 +30,10 @@
 I rarely stick to just one type of project—if it looks fun or useful, I'll give it a shot!
 
 ---
+
+![com55's Streak](https://github-readme-streak-stats.herokuapp.com/?user=com55&theme=dark&hide_border=false)
+![com55's Stats](https://github-readme-stats.vercel.app/api?username=com55&theme=dark&show_icons=true&hide_border=false&count_private=true)
+
 
 <p align="center">
   <i>Thanks for visiting my profile!</i>
