@@ -16,7 +16,9 @@ I'm a **hobbyist developer** driven by curiosity. I like tinkering, experimentin
 
 <br/>
 
-![com55's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=com55&theme=dark&show_icons=true&hide_border=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=com55&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="com55's Top Languages" />
+</p>
 
 ---
 
