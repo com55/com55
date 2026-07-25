@@ -14,11 +14,7 @@ I'm a **hobbyist developer** driven by curiosity. I like tinkering, experimentin
 - **Primary:** Python (Intermediate)
 - **Familiar with:** C, JavaScript, VB, and always open to learning more.
 
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=com55&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="com55's Top Languages" />
-</p>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=com55&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="com55's Top Languages" />
 
 ---
 
