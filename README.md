@@ -1,23 +1,35 @@
-# Hi there, I'm com55 👋
+# Hi, I'm com55
 
-## About Me
+> **Just an indie developer building tools out of laziness.**
 
-I'm a **hobbyist developer** driven by curiosity. I like tinkering, experimenting, and picking up new tools along the way, especially creating projects that improve QoL. For me, it's all about learning by doing.
+I mostly work with Python and JavaScript. I enjoy turning repetitive, tedious, or unnecessarily complicated tasks into tools that make life a little easier.
 
-- **Mainly Building:** Small QoL tools, automation scripts, and experimental utilities.
-- **Current Focus:** Building custom tools, automation pipelines, and side projects that spark my interest.
+Most of my projects start with one simple thought: **"There has to be an easier way to do this."**
 
----
+Sometimes I end up spending more time building the tool than doing the actual task.
 
-## Tech Stack
+But at least I won't have to do it again. Probably.
 
-- **Primary:** Python (Intermediate)
-- **Familiar with:** C, JavaScript, VB, and always open to learning more.
+## Projects
+
+Some things I've worked on:
+
+- [pyside6-mcp](https://github.com/com55/pyside6-mcp) - MCP tools for interacting with PySide6 applications.
+- [AtlasToolkit](https://github.com/com55/AtlasToolkit) - A tool for working with Spine texture atlases.
+- [ABVME](https://github.com/com55/ABVME) - A tool for viewing and modifying Unity asset bundles.
+
+Most of my projects are just things I wanted for myself that I figured might be useful to someone else.
+
+## Languages
+
+I mostly work with Python and JavaScript.
+
+I've also worked with C#, C++, and Visual Basic in the past.
+
+Currently learning PHP and TypeScript, and interested in trying Rust and Go someday.
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=com55&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="com55's Top Languages" />
 
 ---
 
-<p align="center">
-  <i>Thanks for visiting my profile! Feel free to explore my repositories.</i>
-</p>
+If something is tedious enough, I'll probably find a way to automate it.
