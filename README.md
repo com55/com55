@@ -15,6 +15,8 @@ But at least I won't have to do it again. Probably.
 Some things I've worked on:
 
 - [pyside6-mcp](https://github.com/com55/pyside6-mcp) - MCP tools for interacting with PySide6 applications.
+- [pywebview-mcp](https://github.com/com55/pywebview-mcp) - MCP tools for interacting with pywebview applications.
+- [node-red-ai-access](https://github.com/com55/node-red-ai-access) - Plugin for Node-RED access for AI clients.
 - [AtlasToolkit](https://github.com/com55/AtlasToolkit) - A tool for working with Spine texture atlases.
 - [ABVME](https://github.com/com55/ABVME) - A tool for viewing and modifying Unity asset bundles.
 
